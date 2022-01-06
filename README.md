@@ -2,5 +2,5 @@
 Course materials beta 
 
 
-[Course Syllabus](https://github.com/mh-orf/FinTech-Data-Course-2021/wiki/Financial-Technology-&-Data-Innovation)
+[Course Syllabus](https://github.com/mh-orf/FinTech-Data-Course-2021/wiki/Financial-Technology-&-Data-Innovation:-Syllabus)
 
